@@ -1,5 +1,16 @@
 # 📊 Olist E-Commerce Sales & Performance Dashboard
 
+## 🧭 Dashboard Navigation
+
+- 🏠 [Landing Page](#landing-page)
+- 📊 [Executive Dashboard](#executive-dashboard)
+- 📦 [Product Analysis](#product-analysis)
+- 🌎 [Region Analysis](#region-analysis)
+- 🚚 [Delivery Analysis](#delivery-analysis)
+- 💰 [Revenue Decomposition](#revenue-decomposition)
+- 🔍 [Key Business Insights](#key-business-insights)
+- 🛠️ [Tools & Technologies](#tools--technologies)
+- 
 ## 📌 Project Overview
 
 This project presents an interactive **Power BI dashboard** built to analyze the sales and operational performance of the **Olist E-Commerce platform**.
