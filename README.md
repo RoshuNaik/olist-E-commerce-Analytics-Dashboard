@@ -124,27 +124,33 @@ This helps identify how different dimensions contribute to overall revenue.
 
 ### Executive Dashboard
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](images/executive-dashboard.png<img width="1470" height="956" alt="Screenshot 2026-08-24 at 12 44 48 PM" src="https://github.com/user-attachments/assets/78cff20c-9987-467a-a688-9e410166ed02" />
+)
 
 ### Landing Page
 
-![Landing Page](images/landing-page.png)
+![Landing Page](images/landing-page.png<img width="1470" height="956" alt="Screenshot 2026-08-24 at 12 44 57 PM" src="https://github.com/user-attachments/assets/0865b6fe-7225-4660-9d01-2255c384dfca" />
+)
 
 ### Product Analysis
 
-![Product Analysis](images/product-analysis.png)
+![Product Analysis](images/product-analysis.png<img width="1470" height="956" alt="Screenshot 2026-08-24 at 12 45 04 PM" src="https://github.com/user-attachments/assets/4a406e65-2ada-4d4f-87b3-be9b048b9623" />
+)
 
 ### Region Analysis
 
-![Region Analysis](images/region-analysis.png)
+![Region Analysis](images/region-analysis.png<img width="1470" height="956" alt="Screenshot 2026-08-24 at 12 45 12 PM" src="https://github.com/user-attachments/assets/9c788d02-c5d3-4e80-bcea-57052ad14e8e" />
+)
 
 ### Delivery Analysis
 
-![Delivery Analysis](images/delivery-analysis.png)
+![Delivery Analysis](images/delivery-analysis.png<img width="1470" height="956" alt="Screenshot 2026-08-24 at 12 45 30 PM" src="https://github.com/user-attachments/assets/3e04aed3-e531-4345-8e12-c4b6c49e33b7" />
+)
 
 ### Revenue Decomposition
 
-![Revenue Decomposition](images/revenue-decomposition.png)
+![Revenue Decomposition](images/revenue-decomposition.png<img width="1470" height="956" alt="Screenshot 2026-08-24 at 12 45 54 PM" src="https://github.com/user-attachments/assets/15b3ee7a-0e96-4f7a-a6b7-c91b8bda9d02" />
+)
 
 ---
 
