@@ -10,6 +10,7 @@
 - 💰 [Revenue Decomposition](#revenue-decomposition)
 - 🔍 [Key Business Insights](#key-business-insights)
 - 🛠️ [Tools & Technologies](#tools--technologies)
+- 📈 [Key KPIs](#key-kpis)
 - 
 ## 📌 Project Overview
 
